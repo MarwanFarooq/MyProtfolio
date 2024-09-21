@@ -58,7 +58,7 @@ const Contectus = ({ contectus }) => {
         </Typography>
       </div>
       <div className="flex justify-center ">
-        <div className="bg-[#171721] border contect border-white shadow-xl shadow- w-[50%]  gap-2 rounded-xl p-6 text-sm">
+        <div className="bg-[#171721] border contect border-white shadow-xl  mobile:w-[100%] tablet:w-[60%]  gap-2 rounded-xl p-6 text-sm">
           <div className="flex justify-start ms-3 my-4">
             <h1 className="text-center  text-white text-2xl font-bold  ">
               Email Me
