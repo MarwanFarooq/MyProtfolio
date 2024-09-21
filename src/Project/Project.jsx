@@ -83,7 +83,7 @@ const Project = ({ project }) => {
         {
           name: "makeup",
           workshop: ["HTML", "CSS", "Bootstrap"],
-          Link: "https://makeup-self.vercel.app/",
+          Link: "makeup-store-ten.vercel.app",
           img: `${makeup}`,
           condition: "",
           conditioncolor: "white",
@@ -94,7 +94,7 @@ const Project = ({ project }) => {
         {
           name: "Netflix",
           workshop: ["HTML", "CSS", "Bootstrap"],
-          Link: "https://netflix-psi-sand.vercel.app/",
+          Link: "https://netflixe-seven.vercel.app/",
           img: `${Netflix}`,
           condition: "",
           conditioncolor: "white",
@@ -105,7 +105,7 @@ const Project = ({ project }) => {
         {
           name: "town",
           workshop: ["HTML", "CSS", "Bootstrap"],
-          Link: "https://town-red.vercel.app/",
+          Link: "https://town-store.vercel.app/",
           img: `${town}`,
           condition: "",
           conditioncolor: "white",
@@ -217,7 +217,7 @@ const Project = ({ project }) => {
         {
           name: "calculator",
           workshop: ["HTML", "CSS", "Bootstrap", "javaScript"],
-          Link: "https://calcoulater.vercel.app/",
+          Link: "https://calcoualter.vercel.app/",
           img: `${calculator}`,
           condition: "",
           conditioncolor: "white",
@@ -228,7 +228,7 @@ const Project = ({ project }) => {
         {
           name: "translator",
           workshop: ["HTML", "CSS", "Bootstrap", "javaScript"],
-          Link: "// https://weatehermap.vercel.app/",
+          Link: " https://translator-web-psi.vercel.app/",
           img: `${translator}`,
           condition: "",
           conditioncolor: "white",
@@ -239,7 +239,7 @@ const Project = ({ project }) => {
         {
           name: "clock",
           workshop: ["HTML", "CSS", "Bootstrap", "javaScript"],
-          Link: " https://clock-wheat-five.vercel.app/",
+          Link: " https://clock-web-one.vercel.app/",
 
           img: `${clock}`,
           condition: "",
@@ -251,7 +251,7 @@ const Project = ({ project }) => {
         {
           name: "comic",
           workshop: ["HTML", "CSS", "Bootstrap", "javaScript"],
-          Link: " https://comic-murex-omega.vercel.app/",
+          Link: "https://comic-web-psi.vercel.app/ ",
 
           img: `${comic}`,
           condition: "",
@@ -263,7 +263,7 @@ const Project = ({ project }) => {
         {
           name: "convirt",
           workshop: ["HTML", "CSS", "Bootstrap", "javaScript"],
-          Link: "https://convert-black.vercel.app/",
+          Link: "https://convirtcoinsweb.vercel.app/",
           img: `${convirt}`,
           condition: "",
           conditioncolor: "white",
@@ -274,7 +274,7 @@ const Project = ({ project }) => {
         {
           name: "weather",
           workshop: ["HTML", "CSS", "Bootstrap", "javaScript"],
-          Link: "// https://weatehermap.vercel.app/",
+          Link: "https://weather-web-ebon-delta.vercel.app/",
           img: `${weather}`,
           condition: "",
           conditioncolor: "white",
@@ -319,7 +319,7 @@ const Project = ({ project }) => {
             "redux-toolkit",
           ],
           img: `${Otlob}`,
-          Link: "https://market-shoop.vercel.app/",
+          Link: "",
           condition: "Available",
           conditioncolor: "white",
           cursor: "pointer",
@@ -338,7 +338,7 @@ const Project = ({ project }) => {
             "redux",
             "redux-toolkit",
           ],
-          Link: "https://shahid-aflam.vercel.app/",
+          Link: "https://shahidaflamk-web.vercel.app/",
           img: `${Shahid}`,
           condition: "Available",
           conditioncolor: "white",
@@ -358,7 +358,7 @@ const Project = ({ project }) => {
             "tailwind element",
             "json-server",
           ],
-          Link: "https://e-commerce-application-gamma.vercel.app/",
+          Link: "https://shahid-five.vercel.app/",
           img: `${MaleStore}`,
           condition: "UpComing",
           conditioncolor: "white",
@@ -368,14 +368,26 @@ const Project = ({ project }) => {
         },
         {
           name: "Qurankarim",
-          workshop: [""],
-          Link: "",
+          workshop: [
+            "HTML",
+            "CSS",
+            "javascript",
+            "React.js",
+            "tailwind css",
+            "meterial tailwind",
+            "chakra ui",
+            "redux",
+            "redux-toolkit",
+            "zod",
+            "React.query",
+          ],
+          Link: "https://quranic-web-site.vercel.app/",
           img: `${QuranPhoto}`,
-          condition: "UpComing",
-          conditioncolor: "Gray-500",
-          cursor: "not-allowed",
+          condition: "New One",
+          conditioncolor: "white",
+          cursor: "pointer",
           descripition:
-            "Launching a website that offers the Quran in various recitations by different sheikhs, along with Hadith and interpretations, is a wonderful idea that can greatly benefit Muslims around the world. To create this website, the following steps can be followed:,",
+            "Creating a responsive Quranic website 📖 using TypeScript and Chakra UI, this platform will feature Arabic script, transliteration, and translations in multiple languages 🌍. Users will have access to audio recitations 🎶, Tafsir, bookmarking, search functionality, and a night mode 🌙 in both Arabic and English languages, all within a user-friendly interface. The website incorporates Zod for data validation ✅ and React Query for efficient data fetching and management during sign-in and log-in processes. Additionally, it will include filters for reciter details before playing any Surah 🔍, along with filters on the home page for enhanced flexibility. Other features include favorite reciters, last played recitations, playlist creation 📚, and a convenient sidebar for easy navigation. Moreover, users can enjoy a radio option 📻 for listening to live Quranic recitations.",
         },
         {
           name: "DokanShop",
